@@ -1,0 +1,7 @@
+/secrets.json
+secrets.json
+/.env
+*/__pycache__/*
+__pycache__/*
+**/__pycache__/
+*.pyc
