@@ -166,7 +166,7 @@ def flask_update_orders_list():
     return orders_data_list
 
 
-if __name__ == '__main__':
+def run_server():
 
     load_dotenv()
     app.run(debug=True, port=8003)
